@@ -8,7 +8,7 @@ This app makes use of [TornadoFX](https://github.com/edvin/tornadofx) lightweigh
 ## Usage
 Download a jar file from this repo [Github Releases](https://github.com/lorenzo-ange/html5-desktop-app/releases).
 
-Start the app with: (Java 8 required)
+Start the app: (Java 8 required)
 ```bash
 java -jar html5-desktop-app-0.1-all.jar
 ```
@@ -29,4 +29,4 @@ Package a redistributable fat jar:
  ```bash
  ./gradlew shadowJar
  ```
- You can find the jar file at `APP_DIR/build/libs/html5-desktop-app-0.1-all.jar`
+ You can find the jar file at `$APP_DIR/build/libs/html5-desktop-app-0.1-all.jar`
