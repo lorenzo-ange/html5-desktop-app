@@ -1,5 +1,5 @@
 # HTML5 Desktop App
-This is an example of a desktop application wirtten with Kotlin and HTML5.
+This is an example of a desktop application written with Kotlin and HTML5.
 
 This app makes use of [TornadoFX](https://github.com/edvin/tornadofx) lightweight framework to create a JavaFX window with WebView.
 
